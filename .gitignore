@@ -2,7 +2,8 @@
 .bundle
 vendor
 Gemfile.lock
-
+install.sh
+.gitignore
 # Jekyll cache
 .jekyll-cache
 .jekyll-metadata
